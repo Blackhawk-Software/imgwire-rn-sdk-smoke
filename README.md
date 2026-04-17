@@ -1,6 +1,6 @@
 # imgwire-rn-sdk-smoke
 
-Expo example app for validating `@imgwire/react-native@0.1.1` in a real React Native runtime.
+Expo example app for validating `@imgwire/react-native` in a real React Native runtime.
 
 This project is intentionally small and inspection-friendly. It is meant to show how to wire the SDK into an Expo app and how to manually verify the most important runtime flows.
 
